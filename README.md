@@ -1,4 +1,4 @@
-# Python AI Transcriptor
+# Python Subtitle Generator
 
 This tool automatically generates subtitles for an MP4 video by:
 
